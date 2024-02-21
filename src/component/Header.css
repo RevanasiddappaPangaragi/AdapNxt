@@ -1,0 +1,15 @@
+.header {
+     margin: 8px;
+      padding: 25px;
+       text-align: center;
+        display: flex; 
+        justify-content: space-between; 
+        align-items: right; 
+    }
+.icons {
+    display: flex;
+    gap: 50px;
+    font-size: 25px;
+}
+   
+    

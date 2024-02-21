@@ -1,0 +1,29 @@
+
+.navigation-bar {
+  display: grid;
+  align-items: flex-start;
+  margin-left:auto;
+  margin: auto;
+  margin-top: -70px;
+  justify-content: space-around ;
+  justify-content: left;
+
+  
+  
+}
+
+.nav-item {
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: black;
+  
+}
+
+.nav-item:hover {
+  color: blue;
+}
+
+.active {
+  font-weight: bold;
+}
+
